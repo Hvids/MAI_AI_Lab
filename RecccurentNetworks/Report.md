@@ -37,7 +37,7 @@ Filament: https://github.com/google/filament
 
 #### Архитектура сети
 
-![Архитектура](/img/model_simle_rnn.png)
+![Архитектура](img/model_simle_rnn.png)
 
 
 #### Результат
@@ -86,12 +86,12 @@ int main() {
 
 #### Архитектура сети
 
-![Arcitect](/img/model_lstm_one_layer.png)
+![Arcitect](img/model_lstm_one_layer.png)
 
 #### Результат
 
 **Графики метрик**
-![Metrics](/img/metrics_singel_layer_lstm.png)
+![Metrics](img/metrics_singel_layer_lstm.png)
 **Полученный текст**
 
 ```
@@ -145,12 +145,12 @@ using namespace int k;
 
 #### Архитектура сети
 
-![Arhitect](/img/model_lstm_two_layer.png)
+![Arhitect](img/model_lstm_two_layer.png)
 
 #### Результат
 
 **Графики метрик**
-![Metrics](/img/metrics_double_layer_lstm.png)
+![Metrics](img/metrics_double_layer_lstm.png)
 
 **Полученный текст**
 ```
@@ -201,12 +201,12 @@ Java_com_google_android_filament_filamat_MaterialBuilder_nMaterialBuilderUniform
 
 #### Архитектура сети
 
-![Arhitect](/img/model_gru_one_layer.png)
+![Arhitect](img/model_gru_one_layer.png)
 
 #### Результат
 
 **Графики метрик**
-![Metrics](/img/metrics_single_layer_gru.png)
+![Metrics](img/metrics_single_layer_gru.png)
 
 **Полученный текст**
 
