@@ -42,7 +42,7 @@ Filament: https://github.com/google/filament
 
 #### Результат
 **Графики метрик**
-![Metrics](/img/metrics_simple_rnn.png)
+![Metrics](img/metrics_simple_rnn.png)
 
 **Полученный текст**
 ```
